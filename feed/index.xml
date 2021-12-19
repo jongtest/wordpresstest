@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>/wordpresstest</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 19 Dec 2021 00:00:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Dec 2021 00:46:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
+		<title>fett</title>
+		<link>/wordpresstest/2021/12/19/fett/</link>
+					<comments>/wordpresstest/2021/12/19/fett/#respond</comments>
+		
+		<dc:creator><![CDATA[jon]]></dc:creator>
+		<pubDate>Sun, 19 Dec 2021 00:46:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wordpresstest/?p=8</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="384" height="481" src="/wordpresstest/wp-content/uploads/2021/12/262300003_289959236472873_5699749088824357905_n.jpg" alt="" class="wp-image-9" srcset="/wordpresstest/wp-content/uploads/2021/12/262300003_289959236472873_5699749088824357905_n.jpg 384w, /wordpresstest/wp-content/uploads/2021/12/262300003_289959236472873_5699749088824357905_n-240x300.jpg 240w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wordpresstest/2021/12/19/fett/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>asdfasdf</title>
 		<link>/wordpresstest/2021/12/19/asdfasdf/</link>
 					<comments>/wordpresstest/2021/12/19/asdfasdf/#respond</comments>
