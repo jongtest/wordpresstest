@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 18 Dec 2021 22:59:16 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Dec 2021 00:00:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
+		<title>asdfasdf</title>
+		<link>/2021/12/19/asdfasdf/</link>
+					<comments>/2021/12/19/asdfasdf/#respond</comments>
+		
+		<dc:creator><![CDATA[jon]]></dc:creator>
+		<pubDate>Sun, 19 Dec 2021 00:00:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/19/asdfasdf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/2021/12/18/hello-world/</link>
 					<comments>/2021/12/18/hello-world/#comments</comments>
