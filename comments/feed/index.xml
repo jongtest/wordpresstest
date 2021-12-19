@@ -9,7 +9,7 @@
 	<title>
 	Comments for jon&#039;s Blog!	</title>
 	<atom:link href="http://127.0.0.1/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/wordpresstest</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 18 Dec 2021 22:59:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/2021/12/18/hello-world/#comment-1</link>
+		<link>/wordpresstest/2021/12/18/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 18 Dec 2021 22:59:16 +0000</pubDate>

@@ -10,7 +10,7 @@
 <channel>
 	<title>jon&#039;s Blog!</title>
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/wordpresstest</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 19 Dec 2021 00:00:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>asdfasdf</title>
-		<link>/2021/12/19/asdfasdf/</link>
-					<comments>/2021/12/19/asdfasdf/#respond</comments>
+		<link>/wordpresstest/2021/12/19/asdfasdf/</link>
+					<comments>/wordpresstest/2021/12/19/asdfasdf/#respond</comments>
 		
 		<dc:creator><![CDATA[jon]]></dc:creator>
 		<pubDate>Sun, 19 Dec 2021 00:00:23 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=6</guid>
+		<guid isPermaLink="false">/wordpresstest/?p=6</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2021/12/19/asdfasdf/feed/</wfw:commentRss>
+					<wfw:commentRss>/wordpresstest/2021/12/19/asdfasdf/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/2021/12/18/hello-world/</link>
-					<comments>/2021/12/18/hello-world/#comments</comments>
+		<link>/wordpresstest/2021/12/18/hello-world/</link>
+					<comments>/wordpresstest/2021/12/18/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[jon]]></dc:creator>
 		<pubDate>Sat, 18 Dec 2021 22:59:16 +0000</pubDate>
@@ -52,7 +52,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/12/18/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/wordpresstest/2021/12/18/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
